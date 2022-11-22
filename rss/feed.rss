@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>IDE</title>
+        <description>News about different IDEs</description>
+        <link>https://noemivarela.github.io/projectRSSide/</link>
+        <pubDate>Tue, 22 Nov 2022 12:15:00 GMT</pubDate>
+        <managingEditor>nvarela@iessanclemente.net</managingEditor>
+        <item>
+            <title>Eclipse</title>
+            <link>https://noemivarela.github.io/projectRSSide/eclipse.html</link>
+            <pubDate>Tue, 22 Nov 2022 12:15:00 GMT</pubDate>
+            <description>Tricks on eclipse</description>
+        </item>
+        <item>
+            <title>Netbeans</title>
+            <link>https://noemivarela.github.io/projectRSSide/netbeans.html</link>
+            <pubDate>Tue, 22 Nov 2022 12:15:00 GMT</pubDate>
+            <description>Tricks on netbeans</description>
+        </item>
+    </channel>
+</rss>
